@@ -11,7 +11,7 @@ project:
     - data-analysis
     - data-visualization
     - data-science
-  authors: Sharafat Karim
+  authors: SharafatKarim
   github: SharafatKarim/python-data-science-notebook
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
@@ -22,7 +22,7 @@ project:
 site:
   template: book-theme
   options:
-    logo_text: Sharafat Karim
+    logo_text: SharafatKarim
     favicon: images/favicon.ico
     logo: images/site_logo.svg
     logo_dark: images/site_logo.svg
