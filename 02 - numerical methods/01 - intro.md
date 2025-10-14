@@ -15,3 +15,8 @@ Besides python, we may need to install,
 - `numpy`: for numerical operations
 - `scipy`: for scientific computing
 - `matplotlib`: for plotting and visualization  
+
+## Also check
+
+- [Python Numerical Methods - Berkeley](https://pythonnumericalmethods.studentorg.berkeley.edu)
+- [Numerical Methods, An Inquiry-Based Approach With Python  - Dr. Eric Sullivan](https://numericalmethodssullivan.github.io/)
