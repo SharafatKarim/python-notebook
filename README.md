@@ -11,8 +11,10 @@ Welcome to my Python notebook! Here, I document my experiments, learning, and in
 - Artificial Intelligence & Machine Learning concepts
 - Simulations and modeling
 
+## Access the Notebook ⭐
+
 - [Live URL](https://python.sharafat.xyz/)
-- [Mirror Site]
+- [Mirror Site](https://sharafat.is-a.dev/python-notebook/)
 
 ## About This Project
 

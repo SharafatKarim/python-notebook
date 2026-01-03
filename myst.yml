@@ -2,8 +2,8 @@
 version: 1
 project:
   id: 65155625-f39d-4de3-a542-25c163d34e8d
-  title: Python, NM & Data Science
-  description: My notebook of python, NM & data science!
+  title: Python Notebook
+  description: My notebook of python, NM, AI, ML, simulation, modeling & data science!
   keywords:
     - python
     - jupyter-notebook
